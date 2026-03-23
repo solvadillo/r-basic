@@ -39,3 +39,8 @@ rsconnect/
 
 ##Deleted by JB 
 .DS_Store
+
+# Generated output files from notebook execution
+*.png
+*.jpg
+*.jpeg
